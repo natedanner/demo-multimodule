@@ -1,10 +1,10 @@
-plugins {
-    java
+plugins	{
+	java
 }
 
-repositories {
-    mavenCentral()
+repositories	{
+	mavenCentral()
 }
 
-dependencies {
+dependencies	{
 }
