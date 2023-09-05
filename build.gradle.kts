@@ -14,8 +14,8 @@ allprojects {
             maven {
                 url = uri("https://artifactory.moderne.ninja/artifactory/moderne-ingest/")
                 credentials {
-                    username = property("artifactory.username").toString()
-                    password = property("artifactory.password").toString()
+                    username = ""
+                    password = ""
                 }
             }
         }
