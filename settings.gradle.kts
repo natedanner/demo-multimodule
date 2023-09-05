@@ -1,3 +1,3 @@
 rootProject.name = "demo-multimodule"
-include("demo-model")
+include("Demo-Model")
 include("demo-api")
