@@ -1,4 +1,4 @@
-package	com.Example.Demo.AdminSystem;
+package com.example.demo.adminsystem;
 
 public enum AdminSystemType {
 	
